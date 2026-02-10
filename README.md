@@ -47,5 +47,5 @@ An Analytical project that mirrors real HR analytics tasks handled in industry t
 
 ## Phase 1. Data Setup
 ### Table purpose and relationship
- ![image alt](
+ ![image alt](https://github.com/C-science/Employee-Management-System/blob/6abcaa195a2f31e0470d8083e47a8c48f5cb343d/Images/Table%20relationship.jpg)
 
