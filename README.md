@@ -47,5 +47,9 @@ An Analytical project that mirrors real HR analytics tasks handled in industry t
 
 ## Phase 1. Data Setup
 ### Table purpose and relationship
+The Employee data Table provides details about each employee- name, employment date, exit date, and so on
+The Employee Engagement survey reveals if employees are satisfied and find balance in their work life. 
+The recruitment table helps HR to track the status of applicants
+The Training & Development table helps the HR department to monitor if required training has been given to all employees. It also monitors the outcome and cost of training each employee.
  ![image alt](https://github.com/C-science/Employee-Management-System/blob/6abcaa195a2f31e0470d8083e47a8c48f5cb343d/Images/Table%20relationship.jpg)
 
