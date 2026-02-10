@@ -6,8 +6,8 @@ An Analytical project that mirrors real HR analytics tasks handled in industry t
 - Project Overview and Objective
 - Dataset Description
 - **Phase 1. Data Setup**
-  - Confirmation query showing row count per table
-  - Short written explanation of each table's purpose
+  - Dta completeness check
+  - Table purpose and relationship
 - **Phase 2. Data Inspection & profiling**
   - Data dictionary describing every column
   - Written explanation of table relationships
