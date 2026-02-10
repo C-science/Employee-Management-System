@@ -1,5 +1,5 @@
 # Employee-Management-System
-![image alt](https://github.com/C-science/Employee-Management-System/blob/b8a7769045b71afaa401ce1567d64e03f0bd70da/Project%20image.png)
+![image alt](https://github.com/C-science/Employee-Management-System/blob/82920cb190ae0381c1369fbba8adb1b9cb3c5726/Images/Project%20Banner.png)
 An Analytical project that mirrors real HR analytics tasks handled in industry teams.
 
 ## Table of Content
