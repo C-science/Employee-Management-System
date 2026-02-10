@@ -45,6 +45,7 @@ An Analytical project that mirrors real HR analytics tasks handled in industry t
 - **Project Insights**
 ---
 
-
-
+## Phase 1. Data Setup
+### Table purpose and relationship
+ ![image alt](
 
