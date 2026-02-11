@@ -118,7 +118,7 @@ WHERE EmployeeID IS NULL
  
  -- AVERAGE SALARY BY DEPARTMENT
  SELECT ED.DepartmentType AS Department,
- AVG(RD.`Desired Salary`) AS Average_salary
+ ROUND(AVG(RD.`Desired Salary`), 2) AS Average_salary
  FROM Employee_data ED
  JOIN recruitment_data RD ON ED.EmployeeID = RD.ApplicantID
  GROUP BY ED.DepartmentType
